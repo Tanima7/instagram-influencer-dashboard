@@ -1,3 +1,4 @@
+
 <h1 align="center">
   📊 Instagram Influencer Analytics Dashboard  
   <br>
@@ -55,7 +56,7 @@
 ## 🖼 Sneak Peek
 
 <p align="center">
-  <img src="[images/dashboard_screenshot.png](https://github.com/user-attachments/assets/c9e7ff86-1e18-4336-ae2f-74a7dcd164fc)" width="600" alt="Dashboard preview">
+![dashboard](https://github.com/user-attachments/assets/c7c9ea62-23c1-43fb-be2d-b20501c7c54e)
 </p>
 
 ---
