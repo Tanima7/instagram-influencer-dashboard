@@ -56,7 +56,7 @@
 ## 🖼 Sneak Peek
 
 <p align="center">
-![dashboard](https://github.com/user-attachments/assets/c7c9ea62-23c1-43fb-be2d-b20501c7c54e)
+(https://github.com/user-attachments/assets/c7c9ea62-23c1-43fb-be2d-b20501c7c54e)
 </p>
 
 ---
